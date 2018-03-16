@@ -1,6 +1,5 @@
 module Routes exposing (..)
 
-import Shared.Types.DocumentTypes exposing (DocumentTypeId)
 import UrlParser as Url exposing ((</>), (<?>), int, s, stringParam, top)
 
 
